@@ -3,9 +3,13 @@
 }
 
 .hw {
-
+    width: 1280px;
+    margin: 0 auto;
 }
 
 .hwTitle {
-
+    margin: 10px 20px;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
 }

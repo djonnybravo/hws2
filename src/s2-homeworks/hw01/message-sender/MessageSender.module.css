@@ -1,18 +1,39 @@
 .sendForm {
-
+    display: flex;
+    justify-content: space-between;
 }
 
 .textarea {
+    height: 40px !important;
+    border-radius: 20px;
+    background: #F5F7FB;
+    flex-grow: 1;
+    border: none;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
 
 }
 
 .button {
+    height: 40px;
+    width: 120px;
+    border-radius: 20px;
+    background: #0066CC;
+    color: #FFFFFF;
+    margin-left: 40px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
 
 }
 
 .button:hover {
 
 }
+
 .button:active {
 
 }
